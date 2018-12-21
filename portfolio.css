@@ -5,6 +5,12 @@
 body{
 	display:block;
 }
+#navbar{
+	top:0;
+	position:fixed;
+	width:100%;
+	z-index:1;
+}
 #navbar ul{
 	list-style:none;
 	text-align:right;
